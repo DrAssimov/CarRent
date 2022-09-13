@@ -26,4 +26,4 @@ Es soll ein neues Autovermietungssystem „CarRent“ erstellt werden. Das Syste
 ### Class
 
 ## Domain Model
-
+!(https://github.com/DrAssimov/CarRent/blob/main/docs/media/Screenshot%202022-09-13%20134545.png)
