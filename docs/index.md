@@ -4,9 +4,9 @@ CarRent ist die Pflichtaufgabe aus dem Modul Softwarearchitektur und -design, um
 ## Einführung
 Es soll ein neues Autovermietungssystem „CarRent“ erstellt werden. Das System soll aus einem Server-Teil und optional einen Web-Client bestehen.
 
-  ..* Die Daten sollen mittels Repository Pattern in eine Datenbank gespeichert werden können.
-  ..* Die Business Logik soll auf dem Backend laufen und eine REST APIs anbieten.
-  ..* Es soll zuerst ein Monolith erstellt werden und später auf eine Micro Service Architektur überführt werden.
+1. Die Daten sollen mittels Repository Pattern in eine Datenbank gespeichert werden können.
+2. Die Business Logik soll auf dem Backend laufen und eine REST APIs anbieten.
+3. Es soll zuerst ein Monolith erstellt werden und später auf eine Micro Service Architektur überführt werden.
 
 ## Anforderungen an das zu entwickelnde System
   • Der Sachbearbeiter kann Kunden mit Namen und Adresse und Kundennummer im System verwalten, d.h. erfassen, bearbeiten, löschen und den Kunden mit dessen Namen oder Kundennummer suchen.
